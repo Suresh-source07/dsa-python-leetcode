@@ -1,43 +1,47 @@
-# DSA in Python — LeetCode Tracker 🚀
+# DSA in Python — LeetCode Tracker 🧠🔥
 
-This repository contains my **DSA + problem-solving practice** in Python, organized by topic with clean explanations and solutions.
+This repository contains my **DSA and coding practice** in Python, organized by topic with clean solutions and explanations.
 
-📌 Goal: Build strong fundamentals for **AI/ML internships** and technical interviews.
-
----
-
-## 📊 Progress
-- Total Solved: **28**
-- Easy: **13**
-- Medium: **12**
-- Hard: **3**
-
-(Updated weekly)
+**LeetCode Profile:** https://leetcode.com/u/Suresh_07/
 
 ---
 
-## 📂 Topics Covered
-- Arrays, Strings
-- Hashing
-- Two Pointers, Sliding Window
-- Stack, Queue
-- Linked List
-- Binary Search
-- Trees, Graphs
-- Dynamic Programming
-- Heaps
-- Bit Manipulation
+## 🔎 Progress Summary (auto-update in `progress.md`)
+| Category | Solved |
+|----------|--------|
+| Arrays | 0 |
+| Strings | 0 |
+| Hashing | 0 |
+| Two Pointers | 0 |
+| Sliding Window | 0 |
+| Stack | 0 |
+| Queue | 0 |
+| Linked List | 0 |
+| Binary Search | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+| Dynamic Programming | 0 |
+| Heaps | 0 |
+| Bit Manipulation | 0 |
+
+*(Update numbers in `progress.md` — keep this table in sync.)*
 
 ---
 
-## ✅ How I Write Solutions
-Each solution includes:
-- Approach + complexity
-- Clean Python code
-- Edge cases
+## 📂 What This Repo Contains
+Each folder contains Python solutions for common patterns and LeetCode problems:
+- Clean structure
+- Problem title
+- Approach explanation
+- Time & space complexity
+- Python code
 
----
-
-## 🔗 My LeetCode Profile
-https://leetcode.com/u/Suresh_07/
-
+### Approach Format
+Every solution follows this style:
+```python
+"""
+Problem: <LeetCode Title>
+Approach: <Name>
+Time: O(...)
+Space: O(...)
+"""
