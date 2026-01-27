@@ -22,15 +22,15 @@ LeetCode Profile: https://leetcode.com/u/Suresh_07/
 ## 📌 Topic-wise Checklist
 
 ### Arrays
-- [ ] 1 Two Sum
-- [ ] 121 Best Time to Buy and Sell Stock
+- [x] 1 Two Sum
+- [x] 121 Best Time to Buy and Sell Stock
 - [ ] 238 Product of Array Except Self
 - [ ] 53 Maximum Subarray
-- [ ] 217 Contains Duplicate
+- [x] 217 Contains Duplicate
 
 ### Strings
 - [ ] 125 Valid Palindrome
-- [ ] 242 Valid Anagram
+- [x] 242 Valid Anagram
 - [ ] 49 Group Anagrams
 - [ ] 3 Longest Substring Without Repeating Characters
 
@@ -84,3 +84,4 @@ LeetCode Profile: https://leetcode.com/u/Suresh_07/
 ### Bit Manipulation
 - [ ] 136 Single Number
 - [ ] 191 Number of 1 Bits
+
