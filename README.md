@@ -9,8 +9,8 @@ This repository contains my **DSA and coding practice** in Python, organized by 
 ## 🔎 Progress Summary (auto-update in `progress.md`)
 | Category | Solved |
 |----------|--------|
-| Arrays | 0 |
-| Strings | 0 |
+| Arrays | 3 |
+| Strings | 1 |
 | Hashing | 0 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
@@ -24,7 +24,6 @@ This repository contains my **DSA and coding practice** in Python, organized by 
 | Heaps | 0 |
 | Bit Manipulation | 0 |
 
-*(Update numbers in `progress.md` — keep this table in sync.)*
 
 ---
 
@@ -45,3 +44,4 @@ Approach: <Name>
 Time: O(...)
 Space: O(...)
 """
+
